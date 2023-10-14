@@ -1,38 +1,11 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Flandportal.org%2Ffr%2Forganization%2Funiversity-tehran&psig=AOvVaw37c5DCNN5h3oD5KODK685J&ust=1697371001485000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiEtu699YEDFQAAAAAdAAAAABAI">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Read mapping and genome assembly </h3>
 
@@ -73,9 +46,7 @@ WGS Data</a>
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbiocorecrg.github.io%2FPHINDaccess_RNAseq_2020%2Falignment.html&psig=AOvVaw0TClxNoTWk3RzgsJBKMQQo&ust=1697370944510000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDF2tO99YEDFQAAAAAdAAAAABAf)
+## ROADMAP
 
 This project aims to develop proficiency in handling short-read and long-read genomic data, performing quality control, creating genome assemblies, and conducting read mapping and variant calling
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -104,29 +75,6 @@ Install SPAdes, Canu, Quast, BWA, Samtools, Pilon, or any alternative that you w
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-This project aims to develop proficiency in handling short-read and long-read genomic data, performing quality control, creating genome assemblies, and conducting read mapping and variant calling.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -134,9 +82,8 @@ This project aims to develop proficiency in handling short-read and long-read ge
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@LinkedIn_handle](https://www.linkedin.com/in/mariyagolchinpour/) - m.golchinpor@ut.ac.ir
+Your Name - [@LinkedIn](https://www.linkedin.com/in/mariyagolchinpour/) - m.golchinpor@ut.ac.ir
 
-Project Link: [https://github.com/mariyagolchin/Read-mapping-and-genome-assembly/tree/main)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
