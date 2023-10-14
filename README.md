@@ -48,7 +48,7 @@ WGS Data</a>
 <!-- ABOUT THE PROJECT -->
 ## ROADMAP
 
-This project aims to develop proficiency in handling short-read and long-read genomic data, performing quality control, creating genome assemblies, and conducting read mapping and variant callingp align="right">(<a href="#readme-top">back to top</a>)</p>
+This project aims to develop proficiency in handling short-read and long-read genomic data, performing quality control, creating genome assemblies, and conducting read mapping and variant calling </p>
 
 ## Languages
 R and Shell
