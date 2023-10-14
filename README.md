@@ -82,7 +82,7 @@ Install SPAdes, Canu, Quast, BWA, Samtools, Pilon, or any alternative that you w
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@LinkedIn](https://www.linkedin.com/in/mariyagolchinpour/) - m.golchinpor@ut.ac.ir
+Mahboobeh(Mariya) Golchinpour leili - [@LinkedIn](https://www.linkedin.com/in/mariyagolchinpour/) - m.golchinpor@ut.ac.ir
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
