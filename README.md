@@ -64,10 +64,6 @@ This project aims to develop proficiency in handling short-read and long-read ge
   ```sh
   prefetch SRR8185316.sra
   ```
-* fastq-dump
-  ```sh
-  fastq-dump SRR8185316.sra
-  ```
 ### Installation
 
 Install SPAdes, Canu, Quast, BWA, Samtools, Pilon, or any alternative that you want.
