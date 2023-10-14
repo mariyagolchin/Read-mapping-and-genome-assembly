@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Flandportal.org%2Ffr%2Forganization%2Funiversity-tehran&psig=AOvVaw37c5DCNN5h3oD5KODK685J&ust=1697371001485000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiEtu699YEDFQAAAAAdAAAAABAI">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -75,11 +75,9 @@ WGS Data</a>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbiocorecrg.github.io%2FPHINDaccess_RNAseq_2020%2Falignment.html&psig=AOvVaw0TClxNoTWk3RzgsJBKMQQo&ust=1697370944510000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDF2tO99YEDFQAAAAAdAAAAABAf)
 
-This project aims to develop proficiency in handling short-read and long-read genomic
-data, performing quality control, creating genome assemblies, and conducting read
-mapping and variant calling
+This project aims to develop proficiency in handling short-read and long-read genomic data, performing quality control, creating genome assemblies, and conducting read mapping and variant calling
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -90,12 +88,15 @@ mapping and variant calling
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
+* sra
+  ```sh
+  prefetch SRR8185316.sra
+  ```
+* fastq-dump
+  ```sh
+  fastq-dump SRR8185316.sra
+  ```
 ### Installation
 
 Install SPAdes, Canu, Quast, BWA, Samtools, Pilon, or any alternative that you want.
@@ -108,12 +109,7 @@ Install SPAdes, Canu, Quast, BWA, Samtools, Pilon, or any alternative that you w
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+This project aims to develop proficiency in handling short-read and long-read genomic data, performing quality control, creating genome assemblies, and conducting read mapping and variant calling.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,10 +144,6 @@ Project Link: [https://github.com/mariyagolchin/Read-mapping-and-genome-assembly
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-* []()
-* []()
-* []()
 
 Department of Bioinformatics, IBB, University of Tehran
 
