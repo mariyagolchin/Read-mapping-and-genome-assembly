@@ -60,9 +60,13 @@ This project aims to develop proficiency in handling short-read and long-read ge
 ### Prerequisites
 
 
-* sra
+* sSRR8185316.sra
   ```sh
   prefetch SRR8185316.sra
+  ```
+* fastq SRR10538956.sra
+  ```sh
+  prefetch SRR10538956.sra
   ```
 ### Installation
 
