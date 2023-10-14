@@ -5,7 +5,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="LEFT">
 
 <h3 align="center">Read mapping and genome assembly </h3>
 
@@ -51,6 +51,12 @@ WGS Data</a>
 This project aims to develop proficiency in handling short-read and long-read genomic data, performing quality control, creating genome assemblies, and conducting read mapping and variant calling
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- ABOUT THE PROJECT -->
+## Languages
+R and Shell
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
