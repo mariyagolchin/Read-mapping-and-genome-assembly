@@ -7,7 +7,7 @@
 <br />
 <div align="LEFT">
 
-<h3 align="left">Read mapping and genome assembly </h3>
+<h1 align="left">Read mapping and genome assembly </h3>
 
   <p align="left">
     Department of Bioinformatics, IBB, University of Tehran
