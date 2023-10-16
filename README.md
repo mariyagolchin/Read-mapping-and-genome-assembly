@@ -7,7 +7,7 @@
 <br />
 <div align="LEFT">
 
-<h3 align="center">Read mapping and genome assembly </h3>
+<h3 align="left">Read mapping and genome assembly </h3>
 
   <p align="center">
     Department of Bioinformatics, IBB, University of Tehran
@@ -17,41 +17,31 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">Part A - Downloading and Analyzing and Quality Control of E. Coli
-WGS Data</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#about-the-project">Part B - Denovo Genome Assembly</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-	<li>
-      <a href="#about-the-project">Part C - Mapping & variant calling</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
+
+<!-- ABOUT THE Contents -->
+## Table of Contents
+
+<a href="#about-the-project">Part A - Downloading and Analyzing and Quality Control of E. Coli WGS Data</a>
+
+<a href="#built-with">Built With</a></li>
+
+<a href="#about-the-project">Part B - Denovo Genome Assembly</a>
+
+<a href="#built-with">Built With</a></li>
+
+<a href="#about-the-project">Part C - Mapping & variant calling</a>
+
+<a href="#built-with">Built With</a></li>
+
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## ROADMAP
 
-This project aims to develop proficiency in handling short-read and long-read genomic data, performing quality control, creating genome assemblies, and conducting read mapping and variant calling </p>
+This project aims to develop proficiency in handling short-read and long-read genomic data, performing quality control, creating genome assemblies, and conducting read mapping and variant calling
 
-## Languages
-R and Shell
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
