@@ -42,9 +42,15 @@ This project aims to develop proficiency in handling short-read and long-read ge
 ### Prerequisites
 
 
-* sSRR8185316.sra
+* SRR8185316.sra
   ```sh
   prefetch SRR8185316.sra
+
+
+* SRR10538956.sra
+  ```sh
+  prefetch SRR8185316.sra
+
 
 
 <!-- CONTACT -->
