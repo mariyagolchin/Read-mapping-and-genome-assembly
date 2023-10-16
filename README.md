@@ -9,7 +9,7 @@
 
 <h3 align="left">Read mapping and genome assembly </h3>
 
-  <p align="center">
+  <p align="left">
     Department of Bioinformatics, IBB, University of Tehran
     <br />
   </p>
@@ -23,16 +23,9 @@
 
 <a href="#about-the-project">Part A - Downloading and Analyzing and Quality Control of E. Coli WGS Data</a>
 
-<a href="#built-with">Built With</a></li>
-
 <a href="#about-the-project">Part B - Denovo Genome Assembly</a>
 
-<a href="#built-with">Built With</a></li>
-
 <a href="#about-the-project">Part C - Mapping & variant calling</a>
-
-<a href="#built-with">Built With</a></li>
-
 
 
 
@@ -52,20 +45,6 @@ This project aims to develop proficiency in handling short-read and long-read ge
 * sSRR8185316.sra
   ```sh
   prefetch SRR8185316.sra
-  ```
-* fastq SRR10538956.sra
-  ```sh
-  prefetch SRR10538956.sra
-  ```
-### Installation
-
-Install SPAdes, Canu, Quast, BWA, Samtools, Pilon, or any alternative that you want.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -74,17 +53,10 @@ Install SPAdes, Canu, Quast, BWA, Samtools, Pilon, or any alternative that you w
 Mahboobeh(Mariya) Golchinpour leili - [@LinkedIn](https://www.linkedin.com/in/mariyagolchinpour/) - m.golchinpor@ut.ac.ir
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 Department of Bioinformatics, IBB, University of Tehran
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
