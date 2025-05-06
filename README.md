@@ -53,12 +53,6 @@ This project aims to develop proficiency in handling short-read and long-read ge
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Mahboobeh(Mariya) Golchinpour leili - [@LinkedIn](https://www.linkedin.com/in/mariyagolchinpour/) - m.golchinpor@ut.ac.ir
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
