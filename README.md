@@ -10,7 +10,7 @@
 <h1 align="left">Read mapping and genome assembly </h3>
 
   <p align="left">
-    Department of Bioinformatics, IBB, University of Tehran
+   
     <br />
   </p>
 </div>
@@ -56,7 +56,6 @@ This project aims to develop proficiency in handling short-read and long-read ge
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Department of Bioinformatics, IBB, University of Tehran
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
